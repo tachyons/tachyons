@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Ruby  projects
+- 🌱 I’m currently learning Golang and Kotlin
+- 📫 How to reach me: _tachyons on twitter or (aboobackervyd AT gmail.com)
+
 <!--
 **tachyons/tachyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
