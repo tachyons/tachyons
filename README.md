@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Ruby  projects
+- 🔭 I’m currently working at @sephora-asia
 - 🌱 I’m currently learning Golang and Kotlin
 - 📫 How to reach me: _tachyons on twitter or (aboobackervyd AT gmail.com)
 
